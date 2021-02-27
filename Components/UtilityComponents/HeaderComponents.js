@@ -23,6 +23,7 @@ export default function Header({ refreshNews }) {
 
 const styles = StyleSheet.create({
   header: {
+    paddingTop:"5%",
     width: "100%",
     height: 80,
     justifyContent: "center",
